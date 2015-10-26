@@ -1,0 +1,12 @@
+{
+  "id": "13c905d4-d406-4e91-90c7-d649a5438973",
+  "name": "Save as member",
+  "form": "86505ced-23ff-4325-b134-b59330717f7c",
+  "active": true,
+  "workflowTypeId": "ad639eeb-5e7a-47cd-9555-31183171956e",
+  "executesOn": "Submitted",
+  "settings": {
+    "Fields": "{\"memtype\":\"Member\",\"nameField\":\"65084e67-4241-4aa1-dc7c-b313dba68235\",\"loginField\":\"65084e67-4241-4aa1-dc7c-b313dba68235\",\"emailField\":\"65084e67-4241-4aa1-dc7c-b313dba68235\",\"passwordField\":\"65084e67-4241-4aa1-dc7c-b313dba68235\",\"properties\":[{\"id\":\"umbracoMemberComments\",\"value\":\"Comments\",\"$$hashKey\":\"021\"},{\"id\":\"umbracoMemberFailedPasswordAttempts\",\"value\":\"Failed Password Attempts\",\"$$hashKey\":\"022\"},{\"id\":\"umbracoMemberApproved\",\"value\":\"Is Approved\",\"$$hashKey\":\"023\"},{\"id\":\"umbracoMemberLockedOut\",\"value\":\"Is Locked Out\",\"$$hashKey\":\"024\"},{\"id\":\"umbracoMemberLastLockoutDate\",\"value\":\"Last Lockout Date\",\"$$hashKey\":\"025\"},{\"id\":\"umbracoMemberLastLogin\",\"value\":\"Last Login Date\",\"$$hashKey\":\"026\"},{\"id\":\"umbracoMemberLastPasswordChangeDate\",\"value\":\"Last Password Change Date\",\"$$hashKey\":\"027\"}]}"
+  },
+  "sortOrder": 0
+}

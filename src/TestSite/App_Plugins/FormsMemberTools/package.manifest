@@ -1,0 +1,8 @@
+﻿{
+
+  javascript: [
+    '~/App_Plugins/FormsMemberTools/SettingTypes/membermapper.controller.js',
+	'~/App_Plugins/FormsMemberTools/memberpicker.resource.js'
+  ]
+
+}
